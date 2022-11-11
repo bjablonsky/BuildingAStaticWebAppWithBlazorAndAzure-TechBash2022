@@ -1,5 +1,5 @@
 # Building A Static Web App With Blazor And Azure
-###Building a static web app with Blazor and Azure presented at TechBash 2022
+### Building a static web app with Blazor and Azure presented at TechBash 2022
 
 Link to survey: [https://forms.office.com/r/qucWfrzpTy](https://forms.office.com/r/qucWfrzpTy)
 
